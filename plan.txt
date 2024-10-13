@@ -1,0 +1,3 @@
+Destination: Lodz, Poland
+Date: 2025-01-01
+Transport: Plane
